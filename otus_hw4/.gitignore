@@ -1,0 +1,9 @@
+venv
+
+# ignore all hidden files and dirs but .gitignore
+.*
+!.gitignore
+
+
+__pychache__
+*.pyc

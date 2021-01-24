@@ -1,0 +1,18 @@
+[
+  {"name": "Ноутбук Xiaomi Mi Notebook Air 13.3",
+  "description": "Объем жесткого диска: 256 ГБ; Диагональ экрана: 13.3; Видеокарта: NVIDIA GeForce MX150; Вес: 1.3 кг; Оптический привод: DVD нет; 4G LTE: нет; Bluetooth: есть; Wi-Fi: есть",
+  "price": 64990,
+  "images":[
+    {"path": "img"},
+    {"path": "img"}
+  ]},
+
+  {"name": "Ноутбук ASUS X507MA",
+  "description": "Частота процессора: 1100 МГц; Диагональ экрана: 15.6; Видеокарта: Intel HD Graphics 610; Вес: 1.68 кг; Оптический привод: DVD нет; 4G LTE: нет; Bluetooth: есть; Wi-Fi: есть",
+  "price": 21340,
+  "images":[
+    {"path": "img"},
+    {"path": "img"}
+  ]}
+
+]
